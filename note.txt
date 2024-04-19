@@ -1,0 +1,6 @@
+//-->cart
+<div class="cart-container" >
+  <a href="#" class="cart-icon"><img src="cart.png"  alt="Cart"></a>
+  <span class="cartnum">3</span>
+</div>
+--//
